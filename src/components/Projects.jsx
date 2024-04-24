@@ -16,10 +16,19 @@ function Projects() {
             <div className='flex flex-col py-6 gap-4 items-center outline outline-1'>
                 <img src={sassyImg} className='w-1/2 rounded-2xl'></img>
                 <h2 className='text-3xl font-bold'>SASSY</h2>
-                <span className='flex justify-center gap-5 outline outline-1'>
-                    <button><img src={spotify} className='w-8 h-8'></img></button>
-                    <button><img src={apple} className='w-8 h-8'></img></button>
-                    <button><img src={youtube} className='w-8 h-8'></img></button>
+                <span className='flex justify-center gap-8 outline outline-1'>
+                    <button className='flex flex-col items-center'>
+                        <img src={spotify} className='w-12 h-12'></img>
+                        <p>Spotify</p>
+                    </button>
+                    <button className='flex flex-col items-center'>
+                        <img src={apple} className='w-12 h-12'></img>
+                        <p>Apple Music</p>
+                    </button>
+                    <button className='flex flex-col items-center'>
+                        <img src={youtube} className='w-12 h-12'></img>
+                        <p>YouTube</p>
+                    </button>
                 </span>
             </div>
 
@@ -27,9 +36,18 @@ function Projects() {
                 <img src={sugaImg} className='w-1/2 rounded-2xl'></img>
                 <h2 className='text-3xl font-bold'>SUGA</h2>
                 <span className='flex justify-center gap-5 outline outline-1'>
-                    <button>Spotify</button>
-                    <button>Apple</button>
-                    <button>youtube</button>
+                    <button className='flex flex-col items-center'>
+                        <img src={spotify} className='w-12 h-12'></img>
+                        <p>Spotify</p>
+                    </button>
+                    <button className='flex flex-col items-center'>
+                        <img src={apple} className='w-12 h-12'></img>
+                        <p>Apple Music</p>
+                    </button>
+                    <button className='flex flex-col items-center'>
+                        <img src={youtube} className='w-12 h-12'></img>
+                        <p>YouTube</p>
+                    </button>
                 </span>
             </div>
 
@@ -37,9 +55,18 @@ function Projects() {
                 <img src={paintingSoundsImg} className='w-1/2 rounded-2xl'></img>
                 <h2 className='text-3xl font-bold'>Painting Sounds</h2>
                 <span className='flex justify-center gap-5 outline outline-1'>
-                    <button>Spotify</button>
-                    <button>Apple</button>
-                    <button>YouTube</button>
+                    <button className='flex flex-col items-center'>
+                        <img src={spotify} className='w-12 h-12'></img>
+                        <p>Spotify</p>
+                    </button>
+                    <button className='flex flex-col items-center'>
+                        <img src={apple} className='w-12 h-12'></img>
+                        <p>Apple Music</p>
+                    </button>
+                    <button className='flex flex-col items-center'>
+                        <img src={youtube} className='w-12 h-12'></img>
+                        <p>YouTube</p>
+                    </button>
                 </span>
             </div>
 
