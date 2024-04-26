@@ -3,7 +3,7 @@ import aboutImg from '../images/aboutKyleDion.jpg'
 
 function About() {
   return (
-    <div className='w-full my-20 flex flex-col gap-6 outline outline-4 outline-blue-600'>
+    <div className='w-full my-20 flex flex-col gap-6'>
         <h1 className='text-center text-5xl font-bold'>Kyle Dion</h1>
 
         <div className='w-full flex items-center justify-center gap-10'>
