@@ -2,7 +2,7 @@ import React from 'react'
 
 function Store() {
   return (
-    <div className='flex justify-center outline outline-4 outline-purple-600'>
+    <div className='w-full px-16 my-28 flex justify-center outline outline-4 outline-purple-600'>
         <div className='flex-col text-center'>
             <h1 className='flex justify-center'>Store</h1>
 

@@ -2,7 +2,7 @@ import React from 'react'
 
 function Shows() {
   return (
-    <div className='flex-col text-center outline outline-4 outline-yellow-600'>
+    <div className='w-full px-16 my-28 flex flex-col text-center outline outline-4 outline-yellow-600'>
         
         <div className='flex-col'>
             <h1 >Show Schedule</h1>
