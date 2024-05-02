@@ -10,7 +10,7 @@ function Hero() {
                 <h1 className='text-4xl font-bold'>'If My Jeans Could Talk' Out Now</h1>
                 <p className='text-2xl'>Available On All Platforms.</p>
                 <button 
-                className='h-12 w-36 text-lg font-bold self-center rounded-full outline outline-2 hover:bg-amber-500 transition ease-in-out delay-75 duration-300'
+                className='h-12 w-36 text-lg tracking-wide font-bold self-center rounded-full border-2 border-white hover:bg-amber-500 transition ease-in-out delay-75 duration-300'
                 >
                     Listen Now
                 </button>
