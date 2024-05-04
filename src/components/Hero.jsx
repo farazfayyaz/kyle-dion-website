@@ -7,7 +7,7 @@ function Hero() {
 
         <div className='flex items-center justify-center gap-6'>
             <div className='flex flex-col h-1/2 w-1/4 gap-10 items-center text-center'>
-                <h1 className='text-4xl font-bold'>'If My Jeans Could Talk' Out Now</h1>
+                <h1>'If My Jeans Could Talk' Out Now</h1>
                 <p className='text-2xl'>Available On All Platforms.</p>
                 <button 
                 className='h-12 w-36 text-lg tracking-wide font-bold self-center rounded-full border-2 border-white hover:bg-amber-500 transition ease-in-out delay-75 duration-300'

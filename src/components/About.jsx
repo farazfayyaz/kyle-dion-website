@@ -4,7 +4,7 @@ import aboutImg from '../images/aboutKyleDion.jpg'
 function About() {
   return (
     <div className='w-full my-20 flex flex-col gap-6'>
-        <h1 className='text-center text-5xl font-bold'>Kyle Dion</h1>
+        <h1 className='text-center'>Kyle Dion</h1>
 
         <div className='w-full flex items-center justify-center gap-10'>
             <div className='h-1/3 w-1/4 my-8 items-center'>
