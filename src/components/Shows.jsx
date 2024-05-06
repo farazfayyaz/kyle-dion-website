@@ -17,7 +17,7 @@ function Shows() {
                 <h2 className='bg-transparent text-blue-500'>Los Angeles @ Echoplex</h2>
                 <span className='bg-transparent'>
                     <h3 className='text-xl bg-transparent text-blue-500 tracking-wide'>February 21</h3>
-                    <button className='h-12 w-40 mt-4 rounded-full ring ring-blue-500 hover:bg-red-600 transition ease-in-out delay-75 duration-300 cursor-not-allowed'>
+                    <button className='h-12 w-40 mt-4 rounded-full border-2 border-blue-500 hover:bg-red-600 transition ease-in-out delay-75 duration-300 cursor-not-allowed'>
                         <h4 className='text-xl text-blue-500 font-semibold tracking-wide bg-transparent hover:text-white transition ease-in-out delay-75 duration-300'>SOLD OUT</h4>
                     </button>
                 </span>
@@ -27,7 +27,7 @@ function Shows() {
                 <h2 className='bg-transparent text-blue-500'>New York @ Knitting Factory</h2>
                 <span className='bg-transparent'>
                     <h3 className='text-xl bg-transparent text-blue-500 tracking-wide'>March 2</h3>
-                    <button className='h-12 w-40 mt-4 rounded-full ring ring-blue-500 hover:bg-red-600 transition ease-in-out delay-75 duration-300 cursor-not-allowed'>
+                    <button className='h-12 w-40 mt-4 rounded-full border-2 border-blue-500 hover:bg-red-600 transition ease-in-out delay-75 duration-300 cursor-not-allowed'>
                         <h4 className='text-xl text-blue-500 font-semibold tracking-wide bg-transparent hover:text-white transition ease-in-out delay-75 duration-300'>SOLD OUT</h4>
                     </button> 
                 </span>
@@ -38,7 +38,7 @@ function Shows() {
                 <h2 className='bg-transparent text-blue-500'>Paris @ Platform</h2>
                 <span className='bg-transparent'>
                     <h3 className='text-xl bg-transparent text-blue-500 tracking-wide'>March 5</h3>
-                    <button className='h-12 w-40 mt-4 rounded-full ring ring-blue-500 hover:bg-red-600 transition ease-in-out delay-75 duration-300 cursor-not-allowed'>
+                    <button className='h-12 w-40 mt-4 rounded-full border-2 border-blue-500 hover:bg-red-600 transition ease-in-out delay-75 duration-300 cursor-not-allowed'>
                         <h4 className='text-xl text-blue-500 font-semibold tracking-wide bg-transparent hover:text-white transition ease-in-out delay-75 duration-300'>SOLD OUT</h4>
                     </button> 
                 </span>
