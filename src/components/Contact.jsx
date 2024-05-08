@@ -3,7 +3,7 @@ import React from 'react'
 function Contact() {
   return (
     <div className='w-full px-16 my-28 flex flex-col text-center'>
-        <h1 className='flex justify-center'>Contact</h1>
+        <h1 className='flex justify-center' id='contact'>Contact</h1>
 
         <div className='py-10 flex justify-center gap-16'>
 

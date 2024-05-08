@@ -9,7 +9,7 @@ import youtube from '../icons/youtube.png'
 function Projects() {
   return (
     <div className='w-full px-16 my-28 flex flex-col items-center'>
-        <h1 className='flex justify-center'>Projects</h1>
+        <h1 className='flex justify-center' id='projects'>Projects</h1>
 
         <div className='w-full my-5 flex gap-5'>
 

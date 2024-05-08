@@ -4,7 +4,7 @@ function Store() {
   return (
     <div className='w-full py-10 my-28 flex flex-col items-center'>
         
-        <h1 className='w-full flex justify-center'>Store</h1>
+        <h1 className='w-full flex justify-center' id='store'>Store</h1>
         
         <div className='w-2/5 py-10 gap-6 bg-white flex flex-col items-center rounded-2xl'>
 

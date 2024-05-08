@@ -5,7 +5,7 @@ function Shows() {
     <div className='w-full px-22 my-28 flex flex-col items-center text-center'>
         
         <div className='w-1/2 flex flex-col justify-center py-10'>
-            <h1 >Show Schedule</h1>
+            <h1 id='shows'>Show Schedule</h1>
             <h3>If My Jeans Could Talk</h3>
             <h4>Pop-Up Tour</h4>
             <p>Support: Ruby Red and Ayanna</p>
