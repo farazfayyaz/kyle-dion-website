@@ -17,18 +17,18 @@ function Projects() {
                 <img src={sassyImg} className='w-1/2 rounded-2xl shadow-lg shadow-blue-900 hover:scale-110 transition ease-in-out delay-75 duration-300'></img>
                 <h2 className='text-3xl font-bold bg-transparent'>SASSY</h2>
                 <span className='flex justify-center gap-8 p-6 bg-transparent'>
-                    <button className='flex flex-col items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300'>
+                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={spotify} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>Spotify</p>
-                    </button>
-                    <button className='flex flex-col items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300'>
+                    </a>
+                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={apple} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>Apple Music</p>
-                    </button>
-                    <button className='flex flex-col items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300'>
+                    </a>
+                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={youtube} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>YouTube</p>
-                    </button>
+                    </a>
                 </span>
             </div>
 
@@ -36,18 +36,18 @@ function Projects() {
                 <img src={sugaImg} className='w-1/2 rounded-2xl shadow-lg shadow-rose-950 hover:scale-110 transition ease-in-out delay-75 duration-300'></img>
                 <h2 className='text-3xl font-bold bg-transparent'>SUGA</h2>
                 <span className='flex justify-center gap-8 p-6 bg-transparent'>
-                    <button className='flex flex-col items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300'>
+                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={spotify} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>Spotify</p>
-                    </button>
-                    <button className='flex flex-col items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300'>
+                    </a>
+                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={apple} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>Apple Music</p>
-                    </button>
-                    <button className='flex flex-col items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300'>
+                    </a>
+                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={youtube} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>YouTube</p>
-                    </button>
+                    </a>
                 </span>
             </div>
 
@@ -55,18 +55,18 @@ function Projects() {
                 <img src={paintingSoundsImg} className='w-1/2 rounded-2xl shadow-lg shadow-neutral-700 hover:scale-110 transition ease-in-out delay-75 duration-300'></img>
                 <h2 className='text-3xl font-bold bg-transparent'>Painting Sounds</h2>
                 <span className='flex justify-center gap-8 p-6 bg-transparent'>
-                    <button className='flex flex-col items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300'>
+                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={spotify} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>Spotify</p>
-                    </button>
-                    <button className='flex flex-col items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300'>
+                    </a>
+                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={apple} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>Apple Music</p>
-                    </button>
-                    <button className='flex flex-col items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300'>
+                    </a>
+                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={youtube} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>YouTube</p>
-                    </button>
+                    </a>
                 </span>
             </div>
 
