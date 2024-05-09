@@ -3,10 +3,10 @@ import heroAlbumImg from '../images/ifMyJeansCouldTalkKyelDion.jpg'
 
 function Hero() {
   return (
-    <div className='w-full my-16'>
+    <div className='lg:w-full my-16'>
 
-        <div className='flex items-center justify-center gap-6'>
-            <div className='flex flex-col h-1/2 w-1/4 gap-10 items-center text-center'>
+        <div className='flex items-center justify-center gap-6 max-md:flex-col'>
+            <div className='flex flex-col h-1/2 w-1/4 gap-10 items-center text-center max-md:h-1/4 max-md:w-1/2'>
                 <h1>'If My Jeans Could Talk' Out Now</h1>
                 <p className='text-2xl'>Available On All Platforms.</p>
                 <a
