@@ -17,15 +17,18 @@ function Projects() {
                 <img src={sassyImg} className='w-1/2 rounded-2xl shadow-lg shadow-blue-900 hover:scale-110 transition ease-in-out delay-75 duration-300'></img>
                 <h2 className='text-3xl font-bold bg-transparent'>SASSY</h2>
                 <span className='flex justify-center gap-8 p-6 bg-transparent'>
-                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
+                    <a href='https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38'
+                    className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={spotify} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>Spotify</p>
                     </a>
-                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
+                    <a href='https://music.apple.com/us/album/sassy-deluxe/1632623186'
+                    className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={apple} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>Apple Music</p>
                     </a>
-                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
+                    <a href='https://www.youtube.com/playlist?list=OLAK5uy_nc2iIo1srVgEE8dQ_xxC7oxBWXD9ROavM'
+                    className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={youtube} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>YouTube</p>
                     </a>
@@ -36,15 +39,18 @@ function Projects() {
                 <img src={sugaImg} className='w-1/2 rounded-2xl shadow-lg shadow-rose-950 hover:scale-110 transition ease-in-out delay-75 duration-300'></img>
                 <h2 className='text-3xl font-bold bg-transparent'>SUGA</h2>
                 <span className='flex justify-center gap-8 p-6 bg-transparent'>
-                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
+                    <a href='https://open.spotify.com/album/7uJlMQQqUJ8s17FRoMuPrq'
+                    className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={spotify} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>Spotify</p>
                     </a>
-                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
+                    <a href='https://music.apple.com/us/album/suga-deluxe/1498192546'
+                    className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={apple} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>Apple Music</p>
                     </a>
-                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
+                    <a href='https://www.youtube.com/playlist?list=OLAK5uy_kOYVbUf7CPESuQQbeO72XRML3dFCAIxrY'
+                    className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={youtube} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>YouTube</p>
                     </a>
@@ -55,15 +61,18 @@ function Projects() {
                 <img src={paintingSoundsImg} className='w-1/2 rounded-2xl shadow-lg shadow-neutral-700 hover:scale-110 transition ease-in-out delay-75 duration-300'></img>
                 <h2 className='text-3xl font-bold bg-transparent'>Painting Sounds</h2>
                 <span className='flex justify-center gap-8 p-6 bg-transparent'>
-                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
+                    <a href='https://open.spotify.com/album/1VBRFMy0dLTFhc4iEm5y82'
+                    className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={spotify} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>Spotify</p>
                     </a>
-                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
+                    <a href='https://music.apple.com/us/album/painting-sounds/1742169055'
+                    className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={apple} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>Apple Music</p>
                     </a>
-                    <a className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
+                    <a href='https://www.youtube.com/playlist?list=OLAK5uy_mMvcq3N0A-1cPEby31akyQ1JOAF-xSUmE'
+                    className='flex flex-col bg-inherit items-center gap-3 hover:scale-110 transition ease-in-out delay-75 duration-300 cursor-pointer'>
                         <img src={youtube} className='w-12 h-12 bg-inherit'></img>
                         <p className='text-lg bg-inherit'>YouTube</p>
                     </a>
