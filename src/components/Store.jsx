@@ -6,7 +6,7 @@ function Store() {
         
         <h1 className='w-full flex justify-center' id='store'>Store</h1>
         
-        <div className='w-2/5 py-10 gap-6 bg-white flex flex-col items-center rounded-2xl'>
+        <div className='w-2/5 py-10 gap-6 bg-white flex flex-col items-center rounded-2xl max-md:w-3/4'>
 
             <h3 className='text-3xl bg-transparent tracking-wide text-blue-500 font-semibold'>Coming Soon</h3>
 
