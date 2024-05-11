@@ -1,8 +1,9 @@
-# React + Vite
+# Kyle Dion Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is a modern update to the current Kyle Dion webstie.
 
-Currently, two official plugins are available:
+The original website has a straightforward desgin which seems blocky and overbearing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This webpage is designed as a clean update which should welcome fans to explore the website.
+
+All rights are reserved to Kyle Dion and his team.
