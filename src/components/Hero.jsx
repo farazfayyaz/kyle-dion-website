@@ -5,8 +5,8 @@ function Hero() {
   return (
     <div className='w-full my-16'>
 
-        <div className='flex items-center justify-center gap-6 max-md:flex-col-reverse'>
-            <div className='flex flex-col h-1/2 w-1/4 gap-10 items-center text-center max-md:h-1/4 max-md:w-full'>
+        <div className='flex items-center justify-center gap-6 max-md:flex-col-reverse max-md:w-ull'>
+            <div className='flex flex-col h-1/2 w-1/4 gap-10 items-center text-center max-md:w-1/2 max-sm:w-full'>
                 <h1>'If My Jeans Could Talk' Out Now</h1>
                 <p className='text-2xl'>Available On All Platforms.</p>
                 <a
@@ -20,7 +20,7 @@ function Hero() {
                 </a>
             </div>
 
-            <div className='h-1/2 w-1/3 my-8 rounded-2xl'>
+            <div className='h-1/2 w-1/3 my-8 rounded-2xl max-md:w-1/2'>
                 <img src={heroAlbumImg} className='rounded-2xl shadow-xl shadow-blue-900 '></img>
             </div>
             

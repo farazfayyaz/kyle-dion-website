@@ -11,7 +11,7 @@ function Projects() {
     <div className='w-full px-16 my-28 flex flex-col items-center'>
         <h1 className='flex justify-center' id='projects'>Projects</h1>
 
-        <div className='w-full my-5 flex gap-5 max-md:flex-col'>
+        <div className='w-full my-5 flex gap-5 max-md:flex-col max-lg:flex-col'>
 
             <div className='flex flex-col py-6 gap-4 items-center rounded-2xl bg-gradient-to-tr from-cyan-600 to-blue-400'>
                 <img src={sassyImg} className='w-1/2 rounded-2xl shadow-lg shadow-blue-900 hover:scale-110 transition ease-in-out delay-75 duration-300'></img>

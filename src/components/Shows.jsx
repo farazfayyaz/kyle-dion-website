@@ -11,9 +11,9 @@ function Shows() {
             <p>Support: Ruby Red and Ayanna</p>
         </div>
 
-        <div className='flex justify-center gap-24 py-10 max-md:flex-col items-center'>
+        <div className='flex justify-center gap-24 py-10 max-lg:flex-col items-center max-sm:px-4'>
 
-            <div className='grid grid-rows-2 gap-5 w-1/3 py-5 rounded-2xl bg-white max-md:w-full'>
+            <div className='grid grid-rows-2 gap-5 w-1/3 py-5 rounded-2xl bg-white max-lg:w-full'>
                 <h2 className='bg-transparent text-blue-500'>Los Angeles @ Echoplex</h2>
                 <span className='bg-transparent'>
                     <h3 className='text-xl bg-transparent text-blue-500 tracking-wide'>February 21</h3>
@@ -23,7 +23,7 @@ function Shows() {
                 </span>
             </div>
 
-            <div className='grid grid-rows-2 gap-5 w-1/3 py-5 rounded-2xl bg-white max-md:w-full'>
+            <div className='grid grid-rows-2 gap-5 w-1/3 py-5 rounded-2xl bg-white max-lg:w-full'>
                 <h2 className='bg-transparent text-blue-500'>New York @ Knitting Factory</h2>
                 <span className='bg-transparent'>
                     <h3 className='text-xl bg-transparent text-blue-500 tracking-wide'>March 2</h3>
@@ -34,7 +34,7 @@ function Shows() {
                 
             </div>
 
-            <div className='grid grid-rows-2 gap-5 w-1/3 py-5 rounded-2xl bg-white max-md:w-full'>
+            <div className='grid grid-rows-2 gap-5 w-1/3 py-5 rounded-2xl bg-white max-lg:w-full'>
                 <h2 className='bg-transparent text-blue-500'>Paris @ Platform</h2>
                 <span className='bg-transparent'>
                     <h3 className='text-xl bg-transparent text-blue-500 tracking-wide'>March 5</h3>
